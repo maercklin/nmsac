@@ -1,14 +1,6 @@
 NMSAC - ANALYSIS AND PROCESSING SOFTWARE FOR SAC BINARY WAVEFORM FILES
 
-README
-
-Author:  Nils Maercklin
-         formerly at: RISSC, University of Naples Federico II, Naples, Italy
-         https://www.researchgate.net/profile/Nils-Maercklin
-         https://www.linkedin.com/in/maercklin/
-
-Date:    2021-04-29
-
+Nils Maercklin, 2021-04-20
 
 As part of my research work at RISSC, University of Naples Federico II 
 and AMRA Scarl in Naples, Italy, I wrote this stand-alone software package 
@@ -257,3 +249,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+
+CONTACT
+
+Nils Maercklin
+formerly at: RISSC, University of Naples Federico II, Naples, Italy
+https://www.researchgate.net/profile/Nils-Maercklin
+https://www.linkedin.com/in/maercklin/
